@@ -1,0 +1,26 @@
+{
+  "name": "babel-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitElean/Babel-Webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitElean/Babel-Webpack/issues"
+  },
+  "homepage": "https://github.com/GitElean/Babel-Webpack#readme",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "tailwindcss": "^3.0.23"
+  }
+}
