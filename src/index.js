@@ -1,3 +1,4 @@
+import 'core-js/stable'
 import Template from './templates/Template.js'
 import './style.css';
 // import './styles/main.css';
